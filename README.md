@@ -1,7 +1,7 @@
 gdgyangon.org
 -------------
 
-Handcrafted by [@Tin Aung Lin](https://twitter.com/thanyawzinmin), [@Kyaw Zay Ya](https://twitter.com/nevethlexfiend) and [@Ye Lin Aung](https://twitter.com/yelinaung). Powered by Go and GAE.
+Handcrafted by [@Tin Aung Lin](https://twitter.com/thanyawzinmin), [@Kyaw Zay Ya](https://twitter.com/nevethlexfiend) and [@Ye Lin Aung](https://twitter.com/yelinaung). Powered by yeoman and github.
 
 Contributing
 ------------
